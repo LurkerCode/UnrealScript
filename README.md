@@ -1,0 +1,3 @@
+# UnrealScript
+A generic repository of my public UC classes incl. custom-made resources compilable with UCC.exe for various UE1-based games (e.g. Unreal, Deus Ex); also for tutorial and learning purposes.
+To be edited...
