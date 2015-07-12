@@ -1,0 +1,7 @@
+<DC=255,255,255>
+<P>
+<P>Login for computer terminal
+<P>
+<P><JC>Username: <B>Lurker</B>
+<P><JC>Password: <B>NSF001</B>
+<P>
